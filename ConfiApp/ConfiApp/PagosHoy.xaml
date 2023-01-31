@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:pv="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             x:Class="ConfiApp.PagosHoy"
+             xmlns:corcav="clr-namespace:Corcav.Behaviors;assembly=Corcav.Behaviors"
+             xmlns:controls="clr-namespace:ConfiApp.Modelos"
+             Title="Pagos programados para hoy"
+             >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="search.png" Text="Consultar" Clicked="btnMora_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <Grid BackgroundColor="#F3F5F9" RowSpacing="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid BackgroundColor="#1A8681" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="Auto"/>
+              
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                
+            </Grid.ColumnDefinitions>
+            <!--
+            <Label TextColor="White" FontSize="40" HorizontalTextAlignment="Center" VerticalTextAlignment="Center">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <FormattedString.Spans>
+                                <Span Text="Créditos en mora" FontSize="40" FontAttributes="Bold" />
+                                
+                            </FormattedString.Spans>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+            --><StackLayout Margin="0,-10,0,0" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" Grid.Row="0">
+                
+                    <SearchBar Grid.Row="0" Margin="0,0,0,0" VerticalOptions="CenterAndExpand">
+                        <corcav:Interaction.Behaviors>
+                            <corcav:BehaviorCollection>
+                                <corcav:EventToCommand EventName="TextChanged" Command="{Binding Path=SearchBarTextChangedCommand}" PassEventArgument="True"/>
+                            </corcav:BehaviorCollection>
+                        </corcav:Interaction.Behaviors>
+                    </SearchBar>
+               
+                
+            </StackLayout>
+            <Button Grid.Column="1" WidthRequest ="80"
+                                                    HeightRequest     ="33"
+                                                    CornerRadius      ="10"
+                                                     VerticalOptions   ="Center"
+                                                      HorizontalOptions ="Center"
+                                                        FontSize="10"
+                                                        TextColor="Black"
+                                                      BackgroundColor   ="#00A4DF" Margin="0,0,0,0" ImageSource="ICONO_MENSAJES.jpg" x:Name="btnMensajeMasivo" Clicked="MensajeMasivo"></Button>
+            
+            
+            
+        </Grid>
+        <controls:CustomActivityIndicator x:Name="BusyIndicator"
+                                          IsRunning="False"
+                                          Source="LogoConfia.png"
+                                          HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="2" />
+
+        <ScrollView  Grid.Row="2">
+            
+            <StackLayout  x:Name="MyStackList" VerticalOptions="StartAndExpand">
+                <BindableLayout.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Margin="10,5" HasShadow="True" CornerRadius="2" BorderColor="Black"   BackgroundColor='#7FCEF4' VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" Padding="0">
+                            <Grid VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" >
+                               
+                                    
+                                        <Grid HorizontalOptions="FillAndExpand" BackgroundColor="{Binding Color}" >
+                                           
+                                            <StackLayout  HorizontalOptions="Start" VerticalOptions="Center" Margin="20" >
+
+                                        <Button Text="Pagar"  WidthRequest ="110"
+                                                    HeightRequest     ="33"
+                                                    CornerRadius      ="10"
+                                                     VerticalOptions   ="Center"
+                                                      HorizontalOptions ="Start"
+                                                        FontSize="10"
+                                                        TextColor="Black"
+                                                      BackgroundColor   ="#00A4DF" ClassId="{Binding idCredito}" Clicked="Button_Clicked_Ticket"  >
+
+                                        </Button>
+
+
+                                        <Label TextColor="Black" FontSize="15">
+                                                    <Label.FormattedText>
+                                                        <FormattedString>
+                                                            <Span Text="id:  "></Span>
+                                                            <Span Text="{Binding idCredito}"/>
+                                                        </FormattedString>
+                                                    </Label.FormattedText>
+                                                    
+                                                
+
+                                        </Label>
+                                               
+                                        <Label  TextColor="Black" FontSize="15">
+                                                    <Label.FormattedText>
+                                                        <FormattedString>
+                                                            <Span Text="Nombre:  "></Span>
+                                                            <Span Text="{Binding nombre}"/>
+                                                        </FormattedString>
+                                                    </Label.FormattedText>
+
+
+
+                                        </Label>
+                                                <Label  TextColor="Black" FontSize="15">
+                                                    <Label.FormattedText>
+                                                        <FormattedString>
+                                                            <Span Text="Monto:  "></Span>
+                                                            <Span Text="{Binding Pendiente}"/>
+                                                        </FormattedString>
+                                                    </Label.FormattedText>
+
+
+
+                                                </Label>
+                                               
+                                                <Label  TextColor="Black" FontSize="15">
+                                                    <Label.FormattedText>
+                                                        <FormattedString>
+                                                            <Span Text="Teléfono:  "></Span>
+                                                            <Span Text="{Binding Telefono}" TextColor="Blue"
+                                                                   TextDecorations="Underline">
+                                                                <Span.GestureRecognizers>
+                                                                    <TapGestureRecognizer Tapped="TappedTelefono" CommandParameter="{Binding Telefono}" />
+                                                                </Span.GestureRecognizers>
+
+                                                            </Span>
+                                                        </FormattedString>
+                                                    </Label.FormattedText>
+
+
+
+                                                </Label>
+                                                <Label  TextColor="Black" FontSize="15" ClassId="{Binding idCredito}">
+                                                    <Label.FormattedText>
+                                                        <FormattedString>
+                                                            <Span Text="Celular:  "></Span>
+                                                            <Span Text="{Binding Celular}"  TextColor="Blue"
+                                                                   TextDecorations="Underline">
+                                                                <Span.GestureRecognizers>
+                                                                    <TapGestureRecognizer Tapped="TappedCelular" CommandParameter="{Binding Celular}" />
+                                                                </Span.GestureRecognizers>
+                                                            </Span>
+                                                            
+                                                        </FormattedString>
+                                                    </Label.FormattedText>
+
+
+
+                                                </Label>
+                                                
+                                            </StackLayout>
+                                            
+                                        </Grid>
+                                 
+                                   
+                               
+                            </Grid>
+                        </Frame>
+                    </DataTemplate>
+                </BindableLayout.ItemTemplate>
+            </StackLayout>
+        </ScrollView>
+
+    </Grid>
+
+</ContentPage>

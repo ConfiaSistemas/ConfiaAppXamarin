@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:pv="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             x:Class="ConfiApp.TicketsPFechaGestor"
+             xmlns:corcav="clr-namespace:Corcav.Behaviors;assembly=Corcav.Behaviors"
+             xmlns:controls="clr-namespace:ConfiApp.Modelos"
+             xmlns:system="clr-namespace:System;assembly=mscorlib"
+               xmlns:radialMenu="clr-namespace:Syncfusion.SfRadialMenu.XForms;assembly=Syncfusion.SfRadialMenu.XForms"
+             Title="Tickets Generados"
+             >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="search.png" Text="Consultar" Clicked="btnMora_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <radialMenu:SfRadialMenu x:Name="radialMenu"/>
+    </ContentPage.Content>
+    <Grid BackgroundColor="#F3F5F9" RowSpacing="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackLayout BackgroundColor="#1A8681" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+           
+            <!--
+            <Label TextColor="White" FontSize="40" HorizontalTextAlignment="Center" VerticalTextAlignment="Center">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <FormattedString.Spans>
+                                <Span Text="Créditos en mora" FontSize="40" FontAttributes="Bold" />
+                                
+                            </FormattedString.Spans>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+            -->
+            <Grid HorizontalOptions="Center" VerticalOptions="FillAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Label TextColor="White" Grid.Column="0" Grid.Row="0" Text="Fecha Inicio"></Label>
+                <DatePicker TextColor="White" Grid.Column="0" Grid.Row="1" x:Name="DateInicio" Date="{x:Static system:DateTime.Today}"></DatePicker>
+                <Label TextColor="White" Grid.Column="1" Grid.Row="0" Text="Fecha Fin"></Label>
+                <DatePicker TextColor="White" x:Name="DateFin" Grid.Column="1" Grid.Row="1" Date="{x:Static system:DateTime.Today} "></DatePicker>
+                <Label Grid.Column="2" Grid.Row="0" Text="Total Cobrado:" TextColor="White"></Label>
+                <Label Grid.Column="2" Grid.Row="1" Text="..." x:Name="lblCobrado" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" TextColor="White"></Label>
+            </Grid>
+
+
+
+
+
+
+
+
+
+        </StackLayout>
+        <controls:CustomActivityIndicator x:Name="BusyIndicator"
+                                          IsRunning="False"
+                                          Source="LogoConfia.png"
+                                          HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="2" />
+        
+
+        <ScrollView  Grid.Row="2">
+            
+            <StackLayout  x:Name="MyStackList" VerticalOptions="StartAndExpand">
+                <BindableLayout.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Margin="10,5" HasShadow="True" CornerRadius="2" BorderColor="Black"   BackgroundColor='#7FCEF4' VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" Padding="0">
+                            
+                            
+                            <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" >
+
+                             
+                                <Grid HorizontalOptions="FillAndExpand" BackgroundColor="{Binding Color}" Margin="0,0,0,0" >
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+
+                                    <Button Text="Reenviar"  WidthRequest ="110"
+                                            Margin="10,10,0,0"
+                                                    HeightRequest     ="33"
+                                                    CornerRadius      ="10"
+                                                     VerticalOptions   ="Center"
+                                                      HorizontalOptions ="Start"
+                                                        FontSize="10"
+                                                        TextColor="Black"
+                                                      BackgroundColor   ="#00A4DF" ClassId="{Binding id}" Grid.Row="0" Grid.Column="1" Clicked="Button_ClickedAsync"  >
+
+                                    </Button>
+                                    <Label TextColor="Black" FontSize="15" Grid.Column="0" Grid.Row="0">
+                                            <Label.FormattedText>
+                                                <FormattedString>
+                                                    <Span Text="id:  "></Span>
+                                                    <Span Text="{Binding id}"/>
+                                                </FormattedString>
+                                            </Label.FormattedText>
+
+
+
+                                        </Label>
+                                    <Label TextColor="Black" FontSize="15" Grid.Column="0" Grid.Row="1">
+                                            <Label.FormattedText>
+                                                <FormattedString>
+                                                    <Span Text="id Crédito:  "></Span>
+                                                    <Span Text="{Binding idCredito}"/>
+                                                </FormattedString>
+                                            </Label.FormattedText>
+
+
+
+                                        </Label>
+
+                                    <Label TextColor="Black" FontSize="15" Grid.Column="0" Grid.Row="2">
+                                            <Label.FormattedText>
+                                                <FormattedString>
+                                                    <Span Text="Fecha:  "></Span>
+                                                    <Span Text="{Binding Fecha}"/>
+                                                </FormattedString>
+                                            </Label.FormattedText>
+
+
+
+                                        </Label>
+                                    <Label TextColor="Black" FontSize="15" Grid.Column="0" Grid.Row="3">
+                                            <Label.FormattedText>
+                                                <FormattedString>
+                                                    <Span Text="Hora:  "></Span>
+                                                    <Span Text="{Binding Hora}"/>
+                                                </FormattedString>
+                                            </Label.FormattedText>
+
+
+
+                                        </Label>
+
+                                    <Label  TextColor="Black" FontSize="15" Grid.Column="0" Grid.Row="4">
+                                                    <Label.FormattedText>
+                                                        <FormattedString>
+                                                            <Span Text="Nombre:  "></Span>
+                                                            <Span Text="{Binding Nombre}"/>
+                                                        </FormattedString>
+                                                    </Label.FormattedText>
+
+
+
+                                                </Label>
+                                    <Label  TextColor="Black" FontSize="15" Grid.Column="0" Grid.Row="5">
+                                                    <Label.FormattedText>
+                                                        <FormattedString>
+                                                            <Span Text="Total:  "></Span>
+                                                            <Span Text="{Binding Total}"/>
+                                                        </FormattedString>
+                                                    </Label.FormattedText>
+
+
+
+                                                </Label>
+
+                                    <Label  TextColor="Black" FontSize="15" Grid.Column="0" Grid.Row="6">
+                                                    <Label.FormattedText>
+                                                        <FormattedString>
+                                                            <Span Text="Concepto:  "></Span>
+                                                            <Span Text="{Binding Concepto}" >
+                                                                
+
+                                                            </Span>
+                                                        </FormattedString>
+                                                    </Label.FormattedText>
+
+
+
+                                                </Label>
+                                    <Label  TextColor="Black" FontSize="15" Grid.Column="0" Grid.Row="7" ClassId="{Binding idCredito}">
+                                                    <Label.FormattedText>
+                                                        <FormattedString>
+                                                            <Span Text="Estado:  "></Span>
+                                                            <Span Text="{Binding Estado}"  >
+                                                             </Span>
+                                                            
+                                                        </FormattedString>
+                                                    </Label.FormattedText>
+
+
+
+                                                </Label>
+                                                
+                                            
+                                            
+                                        </Grid>
+                                 
+                                   
+                               
+                            </StackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </BindableLayout.ItemTemplate>
+            </StackLayout>
+        </ScrollView>
+
+    </Grid>
+
+</ContentPage>

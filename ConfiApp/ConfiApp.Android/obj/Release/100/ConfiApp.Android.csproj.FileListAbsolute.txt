@@ -1,0 +1,1414 @@
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\bin\Release\ConfiApp.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\bin\Release\ConfiApp.Android.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\bin\Release\com.prestamosconfia1.confiapp.apk
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\bin\Release\com.prestamosconfia1.confiapp.aab
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\bin\Release\com.prestamosconfia1.confiapp-Signed.aab
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\bin\Release\com.prestamosconfia1.confiapp-Signed.apk
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\bin\Release\com.prestamosconfia1.confiapp-Signed.apk.idsig
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\bin\Release\ConfiApp.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\bin\Release\ConfiApp.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\build.props
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\adb.props
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\ConfiApp.Android.csproj.AssemblyReference.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\_VerifyXamarinAndroidSupportVersions.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_BuildLibraryImportsCache.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res.flag
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_AndroidXJetifyEmbeddedFiles.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\_AndroidXJetifyEmbeddedFiles.jetify
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\1\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\7\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\9\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\10\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\12\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\13\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\68\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\69\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\71\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\77\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\78\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\79\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\83\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\84\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\85\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\89\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\90\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\91\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\95\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\101\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\103\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\104\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\105\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\106\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\107\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\108\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\109\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\111\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\112\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\113\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\114\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\115\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\lp\120\jl\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\R.txt
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\R.cs.flag
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\ConfiApp.Android.csproj.CoreCompileInputs.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\ConfiApp.Android.csproj.CopyComplete
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\ConfiApp.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\ConfiApp.Android.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\com.prestamosconfia1.confiapp.apk
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\base.zip
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\com.prestamosconfia1.confiapp.aab
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\com.prestamosconfia1.confiapp.apks
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\values\styles.xml
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\values\colors.xml
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-anydpi-v26\icon.xml
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-anydpi-v26\icon_round.xml
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-hdpi\icon.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-hdpi\launcher_foreground.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-mdpi\icon.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-mdpi\launcher_foreground.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-xhdpi\icon.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-xhdpi\launcher_foreground.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-xxhdpi\icon.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-xxxhdpi\icon.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\confia_logo_circulo.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\splash.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\lconfia.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\logoconfia.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\enviar.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\confiapp.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\icono_mensajes.jpg
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\user.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\notificaciones.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\logo_2_x_1.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\x.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\uploadflags.txt
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\resolvedassemblies.hash
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\build.props
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\adb.props
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\ConfiApp.Android.csproj.AssemblyReference.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\_VerifyXamarinAndroidSupportVersions.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\_BuildLibraryImportsCache.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\res.flag
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\_AndroidXJetifyEmbeddedFiles.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\_AndroidXJetifyEmbeddedFiles.jetify
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\files.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\R.txt
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\R.cs.flag
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\ConfiApp.Android.csproj.CoreCompileInputs.cache
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\ConfiApp.Android.csproj.CopyComplete
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\ConfiApp.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\ConfiApp.Android.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\com.prestamosconfia1.confiapp.apk
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\com.prestamosconfia1.confiapp.aab
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\com.prestamosconfia1.confiapp-Signed.aab
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\base.zip
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\com.prestamosconfia1.confiapp.apks
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\styles.xml
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\colors.xml
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\icon.xml
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\icon_round.xml
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\icon.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\launcher_foreground.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\confia_logo_circulo.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\splash.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\lconfia.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\logoconfia.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\enviar.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\confiapp.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\icono_mensajes.jpg
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\user.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\notificaciones.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\logo_2_x_1.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\x.png
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\com.prestamosconfia1.confiapp-Signed.apk
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\com.prestamosconfia1.confiapp-Signed.apk.idsig
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\uploadflags.txt
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\resolvedassemblies.hash
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\Corcav.Behaviors.dll.mdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\Plugin.LocalNotifications.dll.mdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_AndroidXCecilfy.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\link.flag
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Acr.UserDialogs.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\AndHUD.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\AndHUD.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\BouncyCastle.Crypto.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\ConfiApp.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\ConfiApp.Android.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\ConfiApp.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\ConfiApp.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Corcav.Behaviors.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Corcav.Behaviors.dll.mdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\FormsViewGroup.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\FormsViewGroup.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Java.Interop.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Microsoft.Extensions.DependencyInjection.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Mono.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Mono.Android.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Mono.Security.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Mono.Security.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\mscorlib.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\mscorlib.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Newtonsoft.Json.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\PdfSharp.Xamarin.Forms.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\PdfSharp.Xamarin.Forms.Android.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\PdfSharp.Xamarin.Forms.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\PdfSharp.Xamarin.Forms.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\PdfSharpCore.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Plugin.CurrentActivity.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Plugin.LocalNotification.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Plugin.LocalNotifications.Abstractions.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Plugin.LocalNotifications.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Plugin.LocalNotifications.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Rg.Plugins.Popup.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Rg.Plugins.Popup.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\SixLabors.Fonts.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\SixLabors.ImageSharp.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Buttons.XForms.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Buttons.XForms.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Compression.Portable.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Core.XForms.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Core.XForms.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Licensing.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Pdf.Portable.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfBadgeView.XForms.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfBadgeView.XForms.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfPopupLayout.XForms.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfPopupLayout.XForms.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfRadialMenu.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfRadialMenu.XForms.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfRadialMenu.XForms.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfTabView.XForms.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfTabView.XForms.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Buffers.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Configuration.ConfigurationManager.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Core.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Core.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Data.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Data.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Drawing.Common.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Drawing.Common.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Net.Http.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Net.Http.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Numerics.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Numerics.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Runtime.Serialization.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Runtime.Serialization.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Security.AccessControl.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Security.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Security.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Security.Permissions.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Security.Principal.Windows.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.ServiceModel.Internals.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.ServiceModel.Internals.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Text.Encoding.CodePages.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Text.Encoding.CodePages.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Xml.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Xml.Linq.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Xml.Linq.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Xml.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\TallComponents.PDF.Kit.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Android.Support.v4.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Activity.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CardView.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Core.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Core.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Loader.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.CommunityToolkit.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Essentials.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Essentials.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Core.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Core.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.PancakeView.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Platform.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Xaml.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Google.Android.Material.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Google.Android.Material.pdb
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\jl\df4f6161-4bc4-4395-98ed-eefb8c3859d1.jar
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_AndroidXJetifyJavaLibraryRules.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\proguard\2e3d4e68-ab31-4fa2-ad93-07e58dd9cd72.txt
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\proguard\843931a5-537e-4f60-b7f9-5d46bc0a57ee.cfg
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\proguard\a013c4d1-3d08-439e-b926-464e3f1c7437.txt
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\proguard\e4b8ce50-b21f-44fc-a5b9-186cac6ce094.txt
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_AndroidXJetifyProguardRules.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\_AndroidXJetifyProguardRules.jetify
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.arm64-v8a.s
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.armeabi-v7a.s
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.x86.s
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.x86_64.s
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.arm64-v8a-managed.inc
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.armeabi-v7a-managed.inc
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.x86-managed.inc
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.x86_64-managed.inc
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.armeabi-v7a-shared.inc
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.shared.inc
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\AndroidManifest.xml
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\AndroidManifest.xml
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\__environment__.txt
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\MonoRuntimeProvider.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\machine.config
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\mono.android.jar
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\static.flag
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\buildid.txt
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.arm64-v8a.s
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.armeabi-v7a.s
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.x86.s
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.x86_64.s
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidhud\ProgressWheel.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidhud\ProgressWheel_SpinHandler.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\activity\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\annotation\experimental\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\appcompat\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\appcompat\resources\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\browser\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\cardview\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\constraintlayout\widget\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\coordinatorlayout\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\core\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\drawerlayout\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\fragment\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\lifecycle\runtime\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\lifecycle\viewmodel\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\media\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\navigation\common\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\navigation\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\navigation\ui\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\preference\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\recyclerview\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\savedstate\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\swiperefreshlayout\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\transition\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\viewpager2\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\com\google\android\material\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6408016d9538b87f2d\MainActivity.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc640879981a986d658b\SfGradientViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc640f9a3bf7250ef269\ScheduledAlarmHandler.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6416ec745d18a40a4d\BadgeRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6416ec745d18a40a4d\SfBadgeView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6416ec745d18a40a4d\SfBadgeViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\AutoFitTextureView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\CameraCaptureStateListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\CameraFragment.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\CameraStateListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\CameraViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\DrawingViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\FormsVideoView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\ImageAvailableListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\MediaElementRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\PopupRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\SemanticOrderViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\ThumbFrameRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6439b217bab7914f95\ActionSheetListAdapter.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643dd37f507f3d9710\PopupPageRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643ddf594df781e5ec\SfBorderRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64401b0b17fb483494\SfRadialMenuRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\InputLayoutBorder.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\InputLayoutBorderRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\InputLayoutClearButtonViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\InputLayoutClearButtonViewRenderer_GestureListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer_GestureListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\SfTextInputLayoutRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64435a5ac349fa9fda\ActivityLifecycleContextListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644dfbb594210b5e37\MaterialSfTabViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644dfbb594210b5e37\SfTabViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64515ee83f00766c60\PlatformShadowEffect_ShadowOutlineProvider.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64515ee83f00766c60\PlatformTouchEffect_AccessibilityListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64515ee83f00766c60\VisualFeedbackEffectRouter_FastRendererOnLayoutChangeListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6454f3457678447c99\CircleLayout.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6454f3457678447c99\ItemView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6454f3457678447c99\RadialMenuRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6454f3457678447c99\RoundButton.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6454f3457678447c99\SfRadialMenu.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6454f3457678447c99\SfRadialMenuItem.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc645b8ccbad6ecd7dce\SideMenuViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\CloseButtonFrame.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\MaterialPopupRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\PopupFooter.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\PopupHeader.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\PopupView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\PopupViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\SfPopupLayout.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\SfPopupRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\VisualContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64692a67b1ffd85ce9\ActivityLifecycleCallbacks.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\Border.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\ContainerLayout.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\CustomHorizontalScrollView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\SegmentView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\SelectionStrip.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\SfCheckBox.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\SfCheckBox_SfSavedState.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\SfCheckBox_SfSavedState_SavedStateCreator.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\SfSegmentedControl.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\ViewLayout.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6494963511c3079d02\SfCheckBoxMaterialDesignRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6494963511c3079d02\SfCheckBoxRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6494963511c3079d02\SfRadioButtonMaterialDesignRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6494963511c3079d02\SfRadioButtonRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64951dfa51216f9180\ViewContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\AbstractAppCompatDialogFragment_1.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\ActionSheetAppCompatDialogFragment.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\AlertAppCompatDialogFragment.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\BottomSheetDialogFragment.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\ConfirmAppCompatDialogFragment.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\DateAppCompatDialogFragment.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\LoginAppCompatDialogFragment.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\PromptAppCompatDialogFragment.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\TimeAppCompatDialogFragment.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64c9e0fc3fe4585769\SfButtonRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64dcfb2fe544294a8b\SfSegmentedControlRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64dcfb2fe544294a8b\SfSwitchElementViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64dcfb2fe544294a8b\SfTouchEffectMaterialDesignRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64dcfb2fe544294a8b\TouchEffectRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64eeb36180fe6023e2\GestureListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64eeb36180fe6023e2\SfEffectsViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f606ab658bf2774f\SfShimmerRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f606ab658bf2774f\ShimmerViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\Border.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\CenterButtonRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\ContentContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\CustomTextLayout.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\MoreButton.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\MoreButtonRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\SelectionStrip.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\SfSwipePager.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\SfTabView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\TabHeaderContainer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\TabHeaderRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\TabHeaderView.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f8908e42fa42e603\PancakeDrawable.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f8908e42fa42e603\PancakeViewRenderer.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f8908e42fa42e603\RoundedCornerOutlineProvider.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64fdbeeba101bd56dc\RgGestureDetectorListener.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\android\app\ApplicationRegistration.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\MonoPackageManager_Resources.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\plugin\LocalNotification\NotificationActionReceiver.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\plugin\LocalNotification\ScheduledAlarmReceiver.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\xamarin\essentials\fileProvider.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_AndroidXJetifyManifest.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\_AndroidXJetifyManifest.jetify
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\packaged_resources
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\com\prestamosconfia1\confiapp\R.java
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.arm64-v8a.s
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.armeabi-v7a.s
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.x86.s
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.x86_64.s
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.arm64-v8a.o
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.armeabi-v7a.o
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.x86.o
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.x86_64.o
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.arm64-v8a.o
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.armeabi-v7a.o
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.x86.o
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.x86_64.o
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.arm64-v8a.o
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.armeabi-v7a.o
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.x86.o
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.x86_64.o
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\app_shared_libraries\x86\libxamarin-app.so
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\classes.dex
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_CleanIntermediateIfNeeded.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_CompileToDalvik.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_ConvertCustomView.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_ConvertResourcesCases.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_CopyIntermediateAssemblies.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_GenerateJavaStubs.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_GeneratePackageManagerJava.stamp
+D:\Apis\ConfiApp\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_ResolveLibraryProjectImports.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\build.props
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\adb.props
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\ConfiApp.Android.csproj.AssemblyReference.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\_VerifyXamarinAndroidSupportVersions.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\ConfiApp.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\ConfiApp.Android.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\bin\Release\ConfiApp.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\bin\Release\ConfiApp.Android.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\bin\Release\com.prestamosconfia1.confiapp.apk
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\bin\Release\com.prestamosconfia1.confiapp.aab
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\bin\Release\com.prestamosconfia1.confiapp-Signed.aab
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\bin\Release\com.prestamosconfia1.confiapp-Signed.apk
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\bin\Release\com.prestamosconfia1.confiapp-Signed.apk.idsig
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\bin\Release\ConfiApp.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\bin\Release\ConfiApp.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_BuildLibraryImportsCache.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res.flag
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_AndroidXJetifyEmbeddedFiles.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\_AndroidXJetifyEmbeddedFiles.jetify
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\1\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\7\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\9\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\10\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\12\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\13\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\68\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\69\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\71\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\77\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\78\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\79\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\83\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\84\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\85\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\89\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\90\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\91\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\95\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\101\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\103\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\104\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\105\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\106\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\107\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\108\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\109\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\111\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\112\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\113\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\114\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\115\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\lp\120\jl\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\R.txt
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\R.cs.flag
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\ConfiApp.Android.csproj.CoreCompileInputs.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\ConfiApp.Android.csproj.CopyComplete
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\com.prestamosconfia1.confiapp.apk
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\base.zip
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\com.prestamosconfia1.confiapp.aab
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\com.prestamosconfia1.confiapp.apks
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\values\styles.xml
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\values\colors.xml
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-anydpi-v26\icon.xml
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-anydpi-v26\icon_round.xml
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-hdpi\icon.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-hdpi\launcher_foreground.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-mdpi\icon.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-mdpi\launcher_foreground.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-xhdpi\icon.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-xhdpi\launcher_foreground.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-xxhdpi\icon.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-xxxhdpi\icon.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\confia_logo_circulo.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\splash.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\lconfia.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\logoconfia.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\enviar.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\confiapp.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\icono_mensajes.jpg
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\user.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\notificaciones.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\logo_2_x_1.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\res\drawable\x.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\uploadflags.txt
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\resolvedassemblies.hash
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\build.props
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\adb.props
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\ConfiApp.Android.csproj.AssemblyReference.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\_VerifyXamarinAndroidSupportVersions.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\_BuildLibraryImportsCache.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\res.flag
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\_AndroidXJetifyEmbeddedFiles.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\_AndroidXJetifyEmbeddedFiles.jetify
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\files.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\R.txt
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\R.cs.flag
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\ConfiApp.Android.csproj.CoreCompileInputs.cache
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\ConfiApp.Android.csproj.CopyComplete
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\ConfiApp.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\ConfiApp.Android.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\com.prestamosconfia1.confiapp.apk
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\com.prestamosconfia1.confiapp.aab
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\com.prestamosconfia1.confiapp-Signed.aab
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\base.zip
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\com.prestamosconfia1.confiapp.apks
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\styles.xml
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\colors.xml
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\icon.xml
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\icon_round.xml
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\icon.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\launcher_foreground.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\confia_logo_circulo.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\splash.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\lconfia.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\logoconfia.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\enviar.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\confiapp.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\icono_mensajes.jpg
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\user.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\notificaciones.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\logo_2_x_1.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\x.png
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\com.prestamosconfia1.confiapp-Signed.apk
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\com.prestamosconfia1.confiapp-Signed.apk.idsig
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\uploadflags.txt
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\resolvedassemblies.hash
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\Corcav.Behaviors.dll.mdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\cecil\Plugin.LocalNotifications.dll.mdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_AndroidXCecilfy.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\link.flag
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Acr.UserDialogs.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\AndHUD.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\AndHUD.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\BouncyCastle.Crypto.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\ConfiApp.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\ConfiApp.Android.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\ConfiApp.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\ConfiApp.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Corcav.Behaviors.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Corcav.Behaviors.dll.mdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\FormsViewGroup.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\FormsViewGroup.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Java.Interop.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Microsoft.Extensions.DependencyInjection.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Mono.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Mono.Android.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Mono.Security.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Mono.Security.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\mscorlib.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\mscorlib.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Newtonsoft.Json.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\PdfSharp.Xamarin.Forms.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\PdfSharp.Xamarin.Forms.Android.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\PdfSharp.Xamarin.Forms.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\PdfSharp.Xamarin.Forms.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\PdfSharpCore.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Plugin.CurrentActivity.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Plugin.LocalNotification.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Plugin.LocalNotifications.Abstractions.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Plugin.LocalNotifications.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Plugin.LocalNotifications.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Rg.Plugins.Popup.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Rg.Plugins.Popup.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\SixLabors.Fonts.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\SixLabors.ImageSharp.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Buttons.XForms.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Buttons.XForms.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Compression.Portable.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Core.XForms.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Core.XForms.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Licensing.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.Pdf.Portable.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfBadgeView.XForms.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfBadgeView.XForms.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfPopupLayout.XForms.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfPopupLayout.XForms.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfRadialMenu.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfRadialMenu.XForms.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfRadialMenu.XForms.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfTabView.XForms.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Syncfusion.SfTabView.XForms.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Buffers.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Configuration.ConfigurationManager.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Core.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Core.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Data.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Data.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Drawing.Common.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Drawing.Common.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Net.Http.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Net.Http.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Numerics.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Numerics.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Runtime.Serialization.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Runtime.Serialization.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Security.AccessControl.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Security.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Security.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Security.Permissions.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Security.Principal.Windows.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.ServiceModel.Internals.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.ServiceModel.Internals.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Text.Encoding.CodePages.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Text.Encoding.CodePages.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Xml.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Xml.Linq.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Xml.Linq.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\System.Xml.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\TallComponents.PDF.Kit.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Android.Support.v4.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Activity.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CardView.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Core.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Core.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Loader.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.CommunityToolkit.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Essentials.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Essentials.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Core.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Core.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.PancakeView.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Platform.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Xaml.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Google.Android.Material.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Google.Android.Material.pdb
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\jl\f7121222-13e5-4807-8e8a-c40f154b4a17.jar
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_AndroidXJetifyJavaLibraryRules.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\proguard\45a229a2-40c4-47a6-bc58-52f901970fa5.txt
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\proguard\60e3088b-e280-4626-8908-3c780a64cad9.txt
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\proguard\ab623f44-f289-4ccf-b564-fc24563dd60b.txt
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\proguard\d9032f23-73ed-44f2-93fa-7dfcc7e31292.cfg
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_AndroidXJetifyProguardRules.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\_AndroidXJetifyProguardRules.jetify
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.arm64-v8a.s
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.armeabi-v7a.s
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.x86.s
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.x86_64.s
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.arm64-v8a-managed.inc
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.armeabi-v7a-managed.inc
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.x86-managed.inc
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.x86_64-managed.inc
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.armeabi-v7a-shared.inc
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.shared.inc
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\AndroidManifest.xml
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\AndroidManifest.xml
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\__environment__.txt
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\MonoRuntimeProvider.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\assets\machine.config
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\mono.android.jar
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\static.flag
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\buildid.txt
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.arm64-v8a.s
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.armeabi-v7a.s
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.x86.s
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.x86_64.s
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidhud\ProgressWheel.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidhud\ProgressWheel_SpinHandler.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\activity\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\annotation\experimental\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\appcompat\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\appcompat\resources\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\browser\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\cardview\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\constraintlayout\widget\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\coordinatorlayout\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\core\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\drawerlayout\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\fragment\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\lifecycle\runtime\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\lifecycle\viewmodel\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\media\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\navigation\common\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\navigation\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\navigation\ui\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\preference\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\recyclerview\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\savedstate\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\swiperefreshlayout\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\transition\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\androidx\viewpager2\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\com\google\android\material\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6408016d9538b87f2d\MainActivity.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc640879981a986d658b\SfGradientViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc640f9a3bf7250ef269\ScheduledAlarmHandler.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6416ec745d18a40a4d\BadgeRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6416ec745d18a40a4d\SfBadgeView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6416ec745d18a40a4d\SfBadgeViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\AutoFitTextureView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\CameraCaptureStateListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\CameraFragment.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\CameraStateListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\CameraViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\DrawingViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\FormsVideoView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\ImageAvailableListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\MediaElementRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\PopupRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\SemanticOrderViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc642e1c7a98bdb5c44a\ThumbFrameRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6439b217bab7914f95\ActionSheetListAdapter.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643dd37f507f3d9710\PopupPageRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643ddf594df781e5ec\SfBorderRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64401b0b17fb483494\SfRadialMenuRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\InputLayoutBorder.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\InputLayoutBorderRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\InputLayoutClearButtonViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\InputLayoutClearButtonViewRenderer_GestureListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer_GestureListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644103bb497e895a1b\SfTextInputLayoutRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64435a5ac349fa9fda\ActivityLifecycleContextListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644dfbb594210b5e37\MaterialSfTabViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc644dfbb594210b5e37\SfTabViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64515ee83f00766c60\PlatformShadowEffect_ShadowOutlineProvider.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64515ee83f00766c60\PlatformTouchEffect_AccessibilityListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64515ee83f00766c60\VisualFeedbackEffectRouter_FastRendererOnLayoutChangeListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6454f3457678447c99\CircleLayout.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6454f3457678447c99\ItemView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6454f3457678447c99\RadialMenuRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6454f3457678447c99\RoundButton.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6454f3457678447c99\SfRadialMenu.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6454f3457678447c99\SfRadialMenuItem.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc645b8ccbad6ecd7dce\SideMenuViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\CloseButtonFrame.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\MaterialPopupRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\PopupFooter.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\PopupHeader.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\PopupView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\PopupViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\SfPopupLayout.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\SfPopupRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6466d27d713c291f37\VisualContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64692a67b1ffd85ce9\ActivityLifecycleCallbacks.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\Border.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\ContainerLayout.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\CustomHorizontalScrollView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\SegmentView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\SelectionStrip.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\SfCheckBox.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\SfCheckBox_SfSavedState.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\SfCheckBox_SfSavedState_SavedStateCreator.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\SfSegmentedControl.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6476a6038b5d62edaf\ViewLayout.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6494963511c3079d02\SfCheckBoxMaterialDesignRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6494963511c3079d02\SfCheckBoxRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6494963511c3079d02\SfRadioButtonMaterialDesignRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc6494963511c3079d02\SfRadioButtonRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64951dfa51216f9180\ViewContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\AbstractAppCompatDialogFragment_1.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\ActionSheetAppCompatDialogFragment.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\AlertAppCompatDialogFragment.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\BottomSheetDialogFragment.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\ConfirmAppCompatDialogFragment.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\DateAppCompatDialogFragment.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\LoginAppCompatDialogFragment.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\PromptAppCompatDialogFragment.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64b76f6e8b2d8c8db1\TimeAppCompatDialogFragment.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64c9e0fc3fe4585769\SfButtonRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64dcfb2fe544294a8b\SfSegmentedControlRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64dcfb2fe544294a8b\SfSwitchElementViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64dcfb2fe544294a8b\SfTouchEffectMaterialDesignRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64dcfb2fe544294a8b\TouchEffectRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64eeb36180fe6023e2\GestureListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64eeb36180fe6023e2\SfEffectsViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f606ab658bf2774f\SfShimmerRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f606ab658bf2774f\ShimmerViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\Border.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\CenterButtonRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\ContentContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\CustomTextLayout.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\MoreButton.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\MoreButtonRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\SelectionStrip.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\SfSwipePager.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\SfTabView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\TabHeaderContainer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\TabHeaderRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f72ebd847d591cfa\TabHeaderView.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f8908e42fa42e603\PancakeDrawable.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f8908e42fa42e603\PancakeViewRenderer.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64f8908e42fa42e603\RoundedCornerOutlineProvider.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\crc64fdbeeba101bd56dc\RgGestureDetectorListener.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\android\app\ApplicationRegistration.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\mono\MonoPackageManager_Resources.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\plugin\LocalNotification\NotificationActionReceiver.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\plugin\LocalNotification\ScheduledAlarmReceiver.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\xamarin\essentials\fileProvider.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_AndroidXJetifyManifest.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\androidx\_AndroidXJetifyManifest.jetify
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\packaged_resources
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\src\com\prestamosconfia1\confiapp\R.java
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.arm64-v8a.s
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.armeabi-v7a.s
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.x86.s
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.x86_64.s
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.arm64-v8a.o
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.armeabi-v7a.o
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.x86.o
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\typemaps.x86_64.o
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.arm64-v8a.o
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.armeabi-v7a.o
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.x86.o
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\environment.x86_64.o
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.arm64-v8a.o
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.armeabi-v7a.o
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.x86.o
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\compressed_assemblies.x86_64.o
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\app_shared_libraries\x86\libxamarin-app.so
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\android\bin\classes.dex
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_CleanIntermediateIfNeeded.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_CompileToDalvik.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_ConvertCustomView.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_ConvertResourcesCases.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_CopyIntermediateAssemblies.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_GenerateJavaStubs.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_GeneratePackageManagerJava.stamp
+D:\Codigo aplicaciones\ProyectosC#\ConfiApp xamarin\ConfiApp\ConfiApp.Android\obj\Release\100\stamp\_ResolveLibraryProjectImports.stamp

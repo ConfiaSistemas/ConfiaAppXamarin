@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<popup:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+                  xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                   xmlns:local="clr-namespace:ConfiApp.Modelos"
+                 xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+                 xmlns:tabView="clr-namespace:Syncfusion.XForms.TabView;assembly=Syncfusion.SfTabView.XForms"
+                  xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
+                 xmlns:sfpopup="clr-namespace:Syncfusion.XForms.PopupLayout;assembly=Syncfusion.SfPopupLayout.XForms"
+                 xmlns:sfavatar="clr-namespace:Syncfusion.XForms.AvatarView;assembly=Syncfusion.Core.XForms"
+             x:Class="ConfiApp.PerfilUsr">
+    
+   <!--
+    <ContentPage.BindingContext>
+        <local:NotificacionesViewModel />
+    </ContentPage.BindingContext>
+    -->
+    <sfpopup:SfPopupLayout x:Name="popup"  IsOpen="{Binding DisplayPopup, Source={StaticResource NViewModel}}">
+        <sfpopup:SfPopupLayout.PopupView>
+            <sfpopup:PopupView HeaderTitle="Notificación" AcceptButtonText="Aceptar">
+                <sfpopup:PopupView.ContentTemplate>
+                    <DataTemplate>
+                        <Label Text="{Binding nto.Nombre , Source= {StaticResource NViewModel}}" BackgroundColor="SkyBlue"
+                           HorizontalTextAlignment="Center"/>
+                    </DataTemplate>
+                </sfpopup:PopupView.ContentTemplate>
+            </sfpopup:PopupView>
+        </sfpopup:SfPopupLayout.PopupView>
+        <sfpopup:SfPopupLayout.Content>
+            <StackLayout>
+
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <sfavatar:SfAvatarView ContentType="Custom"
+                           ImageSource="user.png"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center"   
+                           HeightRequest="50"
+                           CornerRadius="25"
+                           WidthRequest="50" x:Name="imgUser" Grid.Row="1" />
+                    <Grid Grid.Row="0" HorizontalOptions="End" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackLayout WidthRequest="5" HeightRequest="100" Grid.Column="0">
+                            <buttons:SfButton x:Name="SfButton" Text="Cerrar" CornerRadius="50" HorizontalTextAlignment="Start" Clicked="SfButton_ClickedAsync" BackgroundImage="x.png"  ImageAlignment="Start"  VerticalTextAlignment="Start" HeightRequest="20" />
+                        </StackLayout>
+                    </Grid>
+
+
+
+
+
+                </Grid>
+
+
+
+
+
+
+                <StackLayout>
+
+                    <tabView:SfTabView BackgroundColor="Aqua">
+                        <tabView:SfTabItem Title="Información">
+                            <tabView:SfTabItem.Content>
+                                <Grid BackgroundColor="Red" x:Name="AllContactsGrid" />
+                            </tabView:SfTabItem.Content>
+                        </tabView:SfTabItem>
+                        <tabView:SfTabItem Title="Notificaciones">
+                            <tabView:SfTabItem.Content>
+                                <Grid BackgroundColor="Green" x:Name="gridNotificaciones" >
+                                    <ListView x:Name="ContactListView" 
+                               ItemsSource="{Binding NotificacionesList,Source={StaticResource NViewModel}}"
+                                  RowHeight="75" SelectionMode="Single">
+
+                                        <ListView.ItemTemplate>
+                                            <DataTemplate>
+                                                <ViewCell>
+                                                  
+                                                    <StackLayout Orientation="Vertical" Margin="30,0,0,0" xct:TouchEffect.LongPressCommand="{Binding OpenPopupCommand  ,Source={StaticResource NViewModel}}" xct:TouchEffect.LongPressCommandParameter="{Binding id}">
+                                                        <Label 
+                                                Text="{Binding Usuario}"
+                                                    TextColor="Black"
+                                                FontSize="24"  />
+                                                        <Label 
+                                                Text="{Binding UsuarioDestino}" 
+                                                FontSize="20" 
+                                                TextColor="Black" />
+                                                    </StackLayout>
+                                                </ViewCell>
+                                            </DataTemplate>
+                                        </ListView.ItemTemplate>
+                                    </ListView>
+                                </Grid>
+                            </tabView:SfTabItem.Content>
+                        </tabView:SfTabItem>
+
+                    </tabView:SfTabView>
+
+                </StackLayout>
+
+
+            </StackLayout>
+        </sfpopup:SfPopupLayout.Content>
+    </sfpopup:SfPopupLayout>
+    
+    
+</popup:PopupPage>

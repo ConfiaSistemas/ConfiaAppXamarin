@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:badge ="clr-namespace:Syncfusion.XForms.BadgeView;assembly=Syncfusion.SfBadgeView.XForms"
+               xmlns:local="clr-namespace:ConfiApp.Modelos"
+             x:Class="ConfiApp.Master"
+             Title="Master Confía">
+   <!--
+    <ContentPage.BindingContext>
+        <local:NotificacionesViewModel />
+    </ContentPage.BindingContext>
+    --> 
+    <ContentPage.Content>
+        <StackLayout>
+
+            <StackLayout BackgroundColor="Aqua">
+                <Grid  HorizontalOptions="End">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="20"/>
+                    </Grid.ColumnDefinitions>
+                  <!--  <badge:SfBadgeView HorizontalOptions="Center" VerticalOptions="Center" BadgeText="20" x:Name="badgeNotificaciones">
+                        <badge:SfBadgeView.Content>
+                            <Image Grid.Column="0"  BackgroundColor="Yellow"   x:Name="imgNotificaciones" Source="Notificaciones.png" HorizontalOptions="Center"  WidthRequest="20" HeightRequest="20"></Image>
+                        </badge:SfBadgeView.Content>
+                    </badge:SfBadgeView>-->
+                    
+                   
+                </Grid>
+             <!--  <Label  FontSize="15" TextColor="Black" HorizontalOptions="End" Margin="0,-15,20,0"  x:Name="lblNotificaciones" Text="20"></Label>-->
+                <badge:SfBadgeView HorizontalOptions="Center" VerticalOptions="Center"  x:Name="badgeNotificaciones" BadgeText="{Binding NotificacionesList.Count,Source={StaticResource NViewModel}}" >
+                    <badge:SfBadgeView.Content>
+                        <StackLayout Margin="0,0,0,0">
+                    <Frame CornerRadius="100"  HeightRequest="100"
+           WidthRequest="100"
+           HorizontalOptions="Center"
+           Padding="0"
+           IsClippedToBounds="True"
+           >
+                       
+                                <Image    x:Name="imgUser" Source="user.png" HorizontalOptions="Center"  WidthRequest="100" HeightRequest="100" >
+                                    <Image.GestureRecognizers>
+                                        <TapGestureRecognizer
+                Tapped="OnImageNameTapped"
+                NumberOfTapsRequired="1" />
+                                    </Image.GestureRecognizers>
+                                </Image>
+                       
+                       
+                    </Frame>
+
+                </StackLayout>
+                    </badge:SfBadgeView.Content>
+                </badge:SfBadgeView>
+                <StackLayout >
+                    <Grid HorizontalOptions="Center" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                        
+
+
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+
+                        <Label FontSize="20" Grid.Column="0" Grid.Row="0" HorizontalOptions="Center" x:Name="lblUsuario" TextColor="Black"></Label>
+                        <Label  FontSize="20" Grid.Column="0" Grid.Row="1" x:Name="lblnmUsuario" HorizontalOptions="Center" TextColor="Black"></Label>
+                    </Grid>
+                </StackLayout>
+              
+            </StackLayout>
+            
+            <Button Text="Mora" x:Name="btnMora" BackgroundColor="#7FCEF4" Image="Logo Confia.png" Clicked="btnMora_Clicked"/>
+            <Button Text="Pagos programados para hoy" x:Name="btnPagosHoy" BackgroundColor="#7FCEF4" Image="Logo Confia.png" Clicked="btnPagosHoy_Clicked"/>
+            <Button Text="Aplicar pago" x:Name="btnAplicarPago" BackgroundColor="#7FCEF4" Image="Logo Confia.png" Clicked="btnAplicarPago_Clicked"/>
+            <Button Text="Tickets generados" x:Name="btnTickets" BackgroundColor="#7FCEF4" Image="Logo Confia.png" Clicked="btnTickets_Clicked"/>
+            <Button Text="Generar cierre de caja" x:Name="btnCierre" BackgroundColor="#7FCEF4" Image="Logo Confia.png" Clicked="btnCierre_Clicked"/>
+            <Button Text="Cierres generados" x:Name="btnCierreFecha" BackgroundColor="#7FCEF4" Image="Logo Confia.png" Clicked="btnCierreFecha_Clicked"/>
+            <Button Text="Cerrar Sesión" x:Name="btnLogout" BackgroundColor="#7FCEF4" Image="Logo Confia.png" Clicked="btnLogout_Clicked"/>
+           
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
